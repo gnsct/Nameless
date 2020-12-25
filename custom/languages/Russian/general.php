@@ -54,7 +54,7 @@ $language = array(
     'page_loaded_in' => 'Скорость загрузки страницы: {x}с', // Don't replace {x}, time unit is seconds
     'page_x' => 'Страница {x}',
     'browse' => 'Обзор',
-    'bypass' => 'Bypass',
+    'bypass' => 'Обход',
     'yes' => 'Да',
     'no' => 'Нет',
     'content' => 'Контент',
@@ -64,8 +64,8 @@ $language = array(
     'error' => 'Ошибка',
     'are_you_sure' => 'Вы уверены?',
     'spoiler' => 'Спойлер',
-    'link' => 'Link',
-    'unlink' => 'Unlink',
+    'link' => 'Ссылка',
+    'unlink' => 'Удалить ссылку',
     
     /*
      *  Contact form
@@ -73,7 +73,7 @@ $language = array(
     'contact' => 'Обратная связь',
     'message' => 'Сообщение',
     'email_address' => 'Email-адрес',
-    'contact_email_subject' => 'New contact form submission',
+    'contact_email_subject' => 'Отправка новой контактной формы',
     'contact_message_failed' => 'Не удалось отправить сообщение. Пожалуйста, убедитесь, что вы ввели сообщение длиной от 10 до 5000 символов.',
     'contact_message_email' => 'Предоставленное электронное письмо является недействительным.',
     'contact_message_sent' => 'Сообщение успешно отправлено.',
@@ -114,9 +114,9 @@ $language = array(
     'ip' => 'IP',
     'copied' => 'Скопировано!',
     'no_servers' => 'Сейчас нет серверов для отображения!',
-    'bungee_instance' => 'This server is a Bungee instance.',
+    'bungee_instance' => 'Этот сервер является Bungee.',
     'no_players_online' => 'Сейчас нет игроков онлайн.',
-    'and_x_more' => 'and {x} more', // Don't replace {x}
+    'and_x_more' => 'и еще {x}', // Don't replace {x}
 
     /*
      *  Cookie notice
